@@ -1,0 +1,19 @@
+.design{
+ width: 65px;   
+ height: 2px;
+ background-color: aqua;
+ margin: 4px auto;
+ 
+}
+body{
+text-align: center;
+}
+#app{
+    background-color: blanchedalmond;
+}
+#games{
+    background-color: blueviolet;
+}
+#chatbot{
+    background-color: blue;
+}
